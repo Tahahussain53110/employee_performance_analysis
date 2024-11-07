@@ -1,0 +1,9 @@
+ANALYSIS:
+
+Data were analyzed by describing the features present in the data. the features play the bigger part in the analysis. The features tell the relation between the dependent and independent variables. Pandas also help to describe the datasets answering following questions early in our project. The data present in the dataset are divided into numerical and categorical data.
+
+Categorical Features EmpNumber Gender EducationBackground MaritalStatus EmpDepartment EmpJobRole BusinessTravelFrequency OverTime Attrition
+S
+Numerical Features Age DistanceFromHome EmpHourlyRate NumCompaniesWorked EmpLastSalaryHikePercent TotalWorkExperienceInYears TrainingTimesLastYear ExperienceYearsAtThisCompany ExperienceYearsInCurrentRole YearsSinceLastPromotion YearsWithCurrManager
+
+Ordinal Features EmpEducationLevel EmpEnvironmentSatisfaction EmpJobInvolvement EmpJobLevel EmpJobSatisfaction EmpRelationshipSatisfaction EmpWorkLifeBalance PerformanceRating
